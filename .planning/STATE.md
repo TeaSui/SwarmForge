@@ -26,7 +26,7 @@ Status:      Ready to start Phase 1
 
 **Run Phase 1:**
 ```
-/gsd:plan-phase 1
+/gsd:execute-phase 1
 ```
 
 This will research and plan Phase 1: FastAPI ingress, SQS queue, deduplication.
